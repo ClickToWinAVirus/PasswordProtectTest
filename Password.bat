@@ -31,7 +31,8 @@ pause >null
 cls
 goto start
 
-:
+:L101
+cls
 
 
 
